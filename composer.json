@@ -1,0 +1,11 @@
+{
+    "name": "search-listing/includes",
+    "description": "search listing",
+    "type": "project",
+    "license": "GPLv2",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4":{"Inc\\": "./includes"}
+    }
+}
